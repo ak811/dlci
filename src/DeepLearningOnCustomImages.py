@@ -1,4 +1,4 @@
-# Download the dataset.txt from:
+# Download the dataset from:
 # https://www.microsoft.com/en-us/download/confirmation.aspx?id=54765
 # 12,500 images of dogs and 12,500 images of cats
 
