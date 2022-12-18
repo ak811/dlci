@@ -1,8 +1,8 @@
 # Deep Learning on Custom Images
 
-<br>
+<!-- <br>
 
-## Overview
+## Overview -->
 
 
 <br>
